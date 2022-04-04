@@ -2,7 +2,7 @@
   "properties": [
     {
       "id": 1,
-      "type": "House of Character"
+      "type": "House of Character",
       "details": "This house of character is tucked away in an alley......",
       "price": 500000,
       "town": "Paola"
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "type": "Apartment"
+      "type": "Apartment",
       "details": "This apartment of character is tucked away in an alley......",
       "price": 250000,
       "town": "Tarxien"
