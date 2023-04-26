@@ -1,19 +1,19 @@
 {
-	"properties": [{
+	"movies": [{
 			"id": 1,
-			"type": "House of Character",
-			"details": "This house of character is tucked away in an alley......",
-			"price": 500000,
-			"town": "Paola",
-			"finished": false
+			"title": "Frozen",
+			"genre": "Animation",
+			"price": 7.99,
+			"runtime": "102 mins",
+			"4K": true
 		},
 		{
 			"id": 2,
-			"type": "Apartment",
-			"details": "This apartment of character is tucked away in an alley......",
-			"price": 250000,
-			"town": "Tarxien",
-			"finished": true
+			"make": "Harry Potter",
+			"genre": "Fantasy",
+			"price": 15.99,
+			"runtime": "180 mins",
+			"4K": false
 		}
 	]
 }
